@@ -1,4 +1,4 @@
-# azurerm_resource_group
+# terraform-azurerm-resource-group
 
 ![Terraform Version](https://img.shields.io/badge/Terraform-0.12.6-green.svg)
 
